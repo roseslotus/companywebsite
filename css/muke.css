@@ -1,0 +1,36 @@
+/*在此创建CSS样式*/
+*{margin:0;padding:0;font-size:12px;text-decoration:none;list-style:none;}
+.wall{border-style:none solid solid solid;border-width:1px;border-color:#e8e8e8;}
+.wrap{width:1000px;margin:0 auto;}
+.nav{height:80px;}
+.nav_left{width:200px;float:left;}
+.nav_right li{float:left;width:100px;line-height:80px;text-align:center;}
+.nav_right li a{display:block;font-size:16px;font-family:"微软雅黑";}
+.nav_right a:link,.nav_right a:visited{color:#000;}
+.nav_right a:hover,.nav_right a:active{background-color:#be3948;}
+.ad{height:310px;overflow:hidden;margin:5px 0 20px;}
+.scrollNews{height:40px;line-height:40px;}
+.scrollNews h2{background-color:#be3948;float:left;width:150px;text-align:center;}
+.scrollNews p{background-color:#3e3e3e;width:850px;float:left;text-indent:2em;}
+.scrollNews h2,.scrollNews a{color:#FFF;}
+.course{height:150px;margin:20px 0;}
+.course li{float:left;width:330px;}
+.course li a,.course li img{display:block;}
+.course li .p_set{text-align:center;color:#000;font-size:14px;font-family:"微软雅黑";line-height:30px;}
+.main{overflow:hidden;}
+.main h3{line-height:35px;text-indent:2em;color:#fff;background-color:#be3948;}
+.news{width:330px;float:left;}
+.news .ul_pad{padding:0 5px 10px}
+.news li{padding:5px 0 15px;border-bottom:1px solid #e8e8e8;}
+.news_date{float:left;width:40px;height:40px;background-color:#be3948;color:#fff;border-radius:5px;margin:10px 5px;padding:8px 5px;line-height:20px;font-size:14px;text-align:center}
+.news h4{padding:5px 0 10px;color:#000;}
+.news span{color:#515151;font-size:13px;line-height:18px;}
+.activity{margin:0 5px;width:330px;float:left;}
+.activity img{width:290px;height:140px;margin:20px 20px 7px;}
+.activity li{margin-left:20px;}
+.activity li a{color:#000;font-size:15px;font-weight:bold;line-height:20px;}
+.contact{width:330px;float:left;}
+.contact_list{padding:16px 10px 15px;}
+.contact p{font-family:"微软雅黑";font-size:15px;}
+.copyright{height:40px;background-color:#e8e8e8;margin-top:5px;text-align:center;}
+.copyright p{line-height:40px;font-size:16px;}
